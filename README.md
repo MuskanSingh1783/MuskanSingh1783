@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskansingh1783" alt="muskansingh1783" /></a> </p>
 
-- 🔭 I’m currently working on *** Testing web and mobile interfaces for client projects, and logging clear defects in JIRA & Level Access. * Building my test case and test scenario writing skills with practice projects.**
+- 🔭 I’m currently working on "**Testing web and mobile interfaces for client projects, and logging clear defects in JIRA & Level Access. Building my test case and test scenario writing skills with practice projects**".
 
-- 🌱 I’m currently learning **Test case design and the software testing life cycle (STLC), Postman and API testing, Basic SQL, Selenium basics.**
+- 🌱 I’m currently learning **Test case design and the software testing life cycle (STLC), Postman and API testing, Basic SQL, and Selenium basics.**
 
-- 👯 I’m looking to collaborate on **Manual testing and QA practice projects Open-source projects that need Quality testers or accessibility feedback.**
+- 👯 I’m looking to collaborate on **Manual testing and QA practice projects, open-source projects that need Quality testers or accessibility feedback.**
 
 - 📫 How to reach me **Linkedin: linkedin.com/in/muskan-singh-63b24a251; E-mail: muskansingh3871@gmail.com.**
 
-- ⚡ Fun fact **I test with NVDA, VoiceOver and TalkBack, so I know how sites sound as well as how they look & functions.**
+- ⚡ Fun fact **I test with NVDA, VoiceOver, and TalkBack, so I know how sites sound as well as how they look & function.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
